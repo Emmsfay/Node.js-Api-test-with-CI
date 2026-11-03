@@ -7,7 +7,7 @@
     "start": "node src/server.js",
     "test": "node --test"
   },
-  "engines": {"node", ">=20"},s
+  "engines": {"node", ">=20"},
   "keywords": [],
   "author": "",
   "license": "ISC",
